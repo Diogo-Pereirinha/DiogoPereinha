@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DiogoPereinha
+- 👋 Hi, I’m @DiogoPereirinha
 - 👀 I’m interested in Oracle Database, Python, Shell Script and Linux.
 <!---
 - 🌱 I’m currently learning ...
